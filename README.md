@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fildous1
+- 👀 I’m interested in myself
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on... no... im not collaborating
+- 📫 How to reach me... via telegraph
