@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Fildous1
-- 👀 I’m interested in myself
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on... no... im not collaborating
-- 📫 How to reach me... via telegraph
+I have a brief understanding in C#, Python, JavaScript, Node.js, HTML, PHP and CSS
+You can reach me trough Instagram, email, my site, or in person.
+Not looking for collabs rn.
